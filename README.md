@@ -21,16 +21,16 @@ pip install pandas numpy matplotlib openpyxl
 ## Strategies
 The simulation includes the following strategies:
 
-TitForTat
-TitForTwoTats
-AlwaysCooperate
-AlwaysDefect
-Random
-GrimTrigger
-Pavlov
-GenerousTitForTat
-HardTitForTat
-ForgivingTitForTat
+- TitForTat
+- TitForTwoTats
+- AlwaysCooperate
+- AlwaysDefect
+- Random
+- GrimTrigger
+- Pavlov
+- GenerousTitForTat
+- HardTitForTat
+- ForgivingTitForTat
 
 Each strategy defines how an agent decides its next move based on the history of interactions with its opponent.
 
