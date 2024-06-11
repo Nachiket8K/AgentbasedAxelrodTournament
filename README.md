@@ -16,7 +16,8 @@ You can install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib openpyxl
 
-
+```
+ 
 ## Strategies
 The simulation includes the following strategies:
 
